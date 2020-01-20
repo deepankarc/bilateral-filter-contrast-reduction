@@ -1,4 +1,4 @@
-# Bilateral Filter Contrast Reduction
+# Bilateral Filter for Contrast Reduction
 
 ### HDR Imaging
 
