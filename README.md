@@ -21,17 +21,17 @@ To perform contrast reduction on an image run,
 
 <img src="/images/swamp.jpg" alt="(Left) Original Image (Right) Filtered Image" width="1200" height="318">
 <pre>
-                  Fig.1 - (Left) Original Image (Right) Filtered Image </pre>
+                                 Fig.1 - (Left) Original Image (Right) Filtered Image </pre>
 
 #### Contrast Reduction
 
 <img src="/images/dragon.png" alt="(Left) Original Image (Right) Filtered Image" width="952" height="576">
 <pre>
-                  Fig.2 - (Left) Original Image (Right) Filtered Image </pre>
+                                 Fig.2 - (Left) Original Image (Right) Filtered Image </pre>
                   
 <img src="/images/tulip.png" alt="(Left) Original Image (Right) Filtered Image" width="1000" height="480">
 <pre>
-                  Fig.3 - (Left) Original Image (Right) Filtered Image </pre>
+                                 Fig.3 - (Left) Original Image (Right) Filtered Image </pre>
 
 ### References
 
