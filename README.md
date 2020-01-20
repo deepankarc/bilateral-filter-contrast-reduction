@@ -17,14 +17,21 @@ To perform contrast reduction on an image run,
 
 ### Results
 
-<img src="/images/1_4.png" alt="Original Image (Low Exposure)" width="337" height="445">     <img src="/images/32_1.png" alt="Original Image (Low Exposure)" width="337" height="445">
-<pre>
-                  Fig.1 - Original Images (Left - Low Exposure Image, Right - High Exposure Image) </pre>
+#### Bilateral Filtering
 
-<img src="/images/0_Calib_Chapel_CRF0.jpg" alt="Global Tonemapped HDR Image" width="337" height="445">     <img src="/images/0_Calib_Chapel_local_CRF0.jpg" alt="Local Tonemapped HDR Image" width="337" height="445">
-
+<img src="/images/swamp.jpg" alt="(Left) Original Image (Right) Filtered Image" width="1200" height="318">
 <pre>
-                  Fig.2 - HDR Images (Left - Global Tonemapping, Right - Local Tonemapping) </pre>
+                  Fig.1 - (Left) Original Image (Right) Filtered Image </pre>
+
+#### Contrast Reduction
+
+<img src="/images/dragon.png" alt="(Left) Original Image (Right) Filtered Image" width="952" height="576">
+<pre>
+                  Fig.2 - (Left) Original Image (Right) Filtered Image </pre>
+                  
+<img src="/images/tulip.png" alt="(Left) Original Image (Right) Filtered Image" width="1000" height="480">
+<pre>
+                  Fig.3 - (Left) Original Image (Right) Filtered Image </pre>
 
 ### References
 
