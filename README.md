@@ -36,3 +36,4 @@ To perform contrast reduction on an image run,
 ### References
 
 [1] [Frédo Durand, Julie Dorsey - Fast Bilateral Filtering for the Display of High-Dynamic-Range](https://people.csail.mit.edu/fredo/PUBLI/Siggraph2002/DurandBilateral.pdf)
+[2] [Deepankar C. - Bilateral Filter for Contrast Reduction](https://deepankarc.github.io//bilateral-filter/)
