@@ -2,7 +2,7 @@
 
 ### HDR Imaging
 
-This project is an implementation of a fast bilateral filter for contrast reduction (which can be used to display HDR images). The technique implemented is discussed in [1]. Broadly the steps involved are:
+This project is an implementation of a fast bilateral filter for contrast reduction (which can be used to display HDR images). The technique implemented is discussed in [1]. For a complete project desription refer [2].  Broadly the steps involved are:
 1. Implementation of a bilateral filter
 2. Downsampling in spatial and intensity domains
 3. Tone mapping using the bilateral filter by using detail and base components of the image 
